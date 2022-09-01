@@ -25,7 +25,7 @@ const routes = [
   },
 
   {
-    path: "/createPage",
+    path: "/createpage",
     component: createPage,
   },
   {
