@@ -1,0 +1,20 @@
+<template>
+  <div class="login">登录页面</div>
+</template>
+
+<script>
+export default {
+  name: "Login",
+  data() {
+    return {};
+  },
+};
+</script>
+
+<style lang="less" scoped>
+@import "../assets/base.less";
+
+.login {
+  color: @themeColor;
+}
+</style>
